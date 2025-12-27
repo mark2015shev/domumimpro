@@ -30,42 +30,6 @@ const Portfolio = () => {
         ]
       }
     },
-    {
-      image: "https://images.unsplash.com/photo-1556912173-3bb406ef7e77",
-      title: "Contemporary Kitchen Design",
-      description: "Minimalist cabinets with hidden handles",
-      category: "Kitchen",
-      tags: ["Kitchen", "Contemporary", "Minimalist"],
-      details: {
-        client: "Modern Home",
-        duration: "7 weeks",
-        location: "Fairfield, Victoria",
-        services: [
-          "Handle-less cabinet design",
-          "Smart storage solutions",
-          "Appliance integration",
-          "Island feature design"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1556911220-bff31c812dba",
-      title: "Traditional Kitchen Makeover",
-      description: "Classic shaker-style cabinetry in sage green",
-      category: "Kitchen",
-      tags: ["Kitchen", "Traditional", "Classic"],
-      details: {
-        client: "Heritage Home",
-        duration: "8 weeks",
-        location: "James Bay, Victoria",
-        services: [
-          "Custom color matching",
-          "Crown molding installation",
-          "Glass cabinet doors",
-          "Pantry organization"
-        ]
-      }
-    },
 
     // Bathroom Projects
     {
@@ -83,42 +47,6 @@ const Portfolio = () => {
           "Mirror cabinet installation",
           "Under-cabinet lighting",
           "Storage solutions"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14",
-      title: "Spa-Inspired Bathroom",
-      description: "Teak wood vanity with vessel sink",
-      category: "Bathroom",
-      tags: ["Bathroom", "Spa", "Natural"],
-      details: {
-        client: "Waterfront Home",
-        duration: "5 weeks",
-        location: "Cordova Bay, Victoria",
-        services: [
-          "Custom teak cabinetry",
-          "Natural stone integration",
-          "Towel storage solutions",
-          "Accent lighting design"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5",
-      title: "Modern Double Vanity",
-      description: "His and hers vanity in matte black",
-      category: "Bathroom",
-      tags: ["Bathroom", "Modern", "Double"],
-      details: {
-        client: "Executive Home",
-        duration: "4 weeks",
-        location: "Broadmead, Victoria",
-        services: [
-          "Dual sink installation",
-          "LED mirror integration",
-          "Drawer organization",
-          "Makeup station design"
         ]
       }
     },
@@ -142,24 +70,6 @@ const Portfolio = () => {
         ]
       }
     },
-    {
-      image: "https://images.unsplash.com/photo-1558997519-83ea9252edf8",
-      title: "Boutique-Style Closet",
-      description: "Glass-front cabinets with gold accents",
-      category: "Closet",
-      tags: ["Closet", "Luxury", "Display"],
-      details: {
-        client: "Luxury Residence",
-        duration: "6 weeks",
-        location: "Ten Mile Point, Victoria",
-        services: [
-          "Display cabinet design",
-          "Custom lighting system",
-          "Shoe wall installation",
-          "Accessory drawers"
-        ]
-      }
-    },
 
     // Office Projects
     {
@@ -180,42 +90,6 @@ const Portfolio = () => {
         ]
       }
     },
-    {
-      image: "https://images.unsplash.com/photo-1486946255434-2466348c2166",
-      title: "Home Office Library",
-      description: "Floor-to-ceiling bookcases in walnut",
-      category: "Office",
-      tags: ["Office", "Library", "Classic"],
-      details: {
-        client: "Professional's Home",
-        duration: "6 weeks",
-        location: "Rockland, Victoria",
-        services: [
-          "Custom bookshelf design",
-          "Reading nook creation",
-          "Ladder integration",
-          "Display lighting"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1448932252197-d19750584e56",
-      title: "Modern Workspace",
-      description: "Minimalist office with hidden storage",
-      category: "Office",
-      tags: ["Office", "Modern", "Minimalist"],
-      details: {
-        client: "Tech Startup",
-        duration: "4 weeks",
-        location: "Downtown Victoria",
-        services: [
-          "Concealed storage design",
-          "Ergonomic workspace",
-          "Tech integration",
-          "Sound dampening"
-        ]
-      }
-    },
 
     // Bedroom Projects
     {
@@ -233,42 +107,6 @@ const Portfolio = () => {
           "Soft-close hardware installation",
           "Interior organization systems",
           "Mirror integration"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1617104551722-3b2d51366400",
-      title: "Kids Room Storage",
-      description: "Playful storage solutions in maple",
-      category: "Bedroom",
-      tags: ["Bedroom", "Kids", "Storage"],
-      details: {
-        client: "Family Home",
-        duration: "3 weeks",
-        location: "Cedar Hill, Victoria",
-        services: [
-          "Toy storage solutions",
-          "Study area integration",
-          "Safety features",
-          "Growth-adaptable design"
-        ]
-      }
-    },
-    {
-      image: "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf",
-      title: "Guest Suite Storage",
-      description: "Multi-functional storage for versatility",
-      category: "Bedroom",
-      tags: ["Bedroom", "Guest", "Versatile"],
-      details: {
-        client: "Vacation Property",
-        duration: "4 weeks",
-        location: "Oak Bay, Victoria",
-        services: [
-          "Convertible storage",
-          "Hidden bed system",
-          "Luggage storage",
-          "Multi-use solutions"
         ]
       }
     }

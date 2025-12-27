@@ -1,4 +1,3 @@
-import React from 'react';
 import { Phone, Mail, MapPin, Send } from 'lucide-react';
 
 const Contact = () => {
@@ -49,7 +48,7 @@ const Contact = () => {
               <div className="hidden lg:block dark:bg-white/10 light:bg-black/10 w-px h-full mx-auto" />
 
               {/* Contact Form */}
-              <form className="space-y-6">
+              <form name="contact" data-netlify="true" className="space-y-6">
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label htmlFor="name" className="block text-sm font-medium dark:text-gray-300 light:text-gray-700 mb-2">
